@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 import math
 import scipy.stats as stats
 from streamlit_option_menu import option_menu
